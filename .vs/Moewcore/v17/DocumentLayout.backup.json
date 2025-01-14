@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F53280-1C0C-A257-6E6C-584F8F581163}|Assembly-CSharp.csproj|C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\assets\\breadcrumbai\\examples\\demo\\scripts\\demoplayercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F53280-1C0C-A257-6E6C-584F8F581163}|Assembly-CSharp.csproj|solutionrelative:assets\\breadcrumbai\\examples\\demo\\scripts\\demoplayercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F53280-1C0C-A257-6E6C-584F8F581163}|Assembly-CSharp.csproj|c:\\users\\ykada\\onedrive - mediacollege amsterdam\\schooljaar1\\j 1.1\\code\\unity\\moewcore\\assets\\mini first person controller\\scripts\\firstpersonmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F53280-1C0C-A257-6E6C-584F8F581163}|Assembly-CSharp.csproj|solutionrelative:assets\\mini first person controller\\scripts\\firstpersonmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F53280-1C0C-A257-6E6C-584F8F581163}|Assembly-CSharp.csproj|C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\assets\\mini first person controller\\scripts\\firstpersonlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F53280-1C0C-A257-6E6C-584F8F581163}|Assembly-CSharp.csproj|solutionrelative:assets\\mini first person controller\\scripts\\firstpersonlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F53280-1C0C-A257-6E6C-584F8F581163}|Assembly-CSharp.csproj|C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\assets\\breadcrumbai\\examples\\demo\\scripts\\demogameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F53280-1C0C-A257-6E6C-584F8F581163}|Assembly-CSharp.csproj|solutionrelative:assets\\breadcrumbai\\examples\\demo\\scripts\\demogameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F53280-1C0C-A257-6E6C-584F8F581163}|Assembly-CSharp.csproj|C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\assets\\breadcrumbai\\ai\\scripts\\breadcrumbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F53280-1C0C-A257-6E6C-584F8F581163}|Assembly-CSharp.csproj|solutionrelative:assets\\breadcrumbai\\ai\\scripts\\breadcrumbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5F3E45-BA6A-E878-D658-48A3F20FFE8A}|Assembly-CSharp-Editor.csproj|C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\assets\\breadcrumbai\\ai\\editor\\breadcrumbeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5F3E45-BA6A-E878-D658-48A3F20FFE8A}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\breadcrumbai\\ai\\editor\\breadcrumbeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F53280-1C0C-A257-6E6C-584F8F581163}|Assembly-CSharp.csproj|C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\assets\\breadcrumbai\\ai\\scripts\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F53280-1C0C-A257-6E6C-584F8F581163}|Assembly-CSharp.csproj|solutionrelative:assets\\breadcrumbai\\ai\\scripts\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F53280-1C0C-A257-6E6C-584F8F581163}|Assembly-CSharp.csproj|C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\assets\\loading screen package\\scripts\\loading screen types\\loadingscreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F53280-1C0C-A257-6E6C-584F8F581163}|Assembly-CSharp.csproj|solutionrelative:assets\\loading screen package\\scripts\\loading screen types\\loadingscreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstPersonMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\Mini First Person Controller\\Scripts\\FirstPersonMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Mini First Person Controller\\Scripts\\FirstPersonMovement.cs",
+              "ToolTip": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\Mini First Person Controller\\Scripts\\FirstPersonMovement.cs",
+              "RelativeToolTip": "Assets\\Mini First Person Controller\\Scripts\\FirstPersonMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:50:05.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstPersonLook.cs",
+              "DocumentMoniker": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
+              "ToolTip": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
+              "RelativeToolTip": "Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:42:49.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoPlayerControls.cs",
+              "DocumentMoniker": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoPlayerControls.cs",
+              "RelativeDocumentMoniker": "Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoPlayerControls.cs",
+              "ToolTip": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoPlayerControls.cs",
+              "RelativeToolTip": "Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoPlayerControls.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAIwBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:55:16.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoGameOver.cs",
+              "DocumentMoniker": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoGameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoGameOver.cs",
+              "ToolTip": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoGameOver.cs",
+              "RelativeToolTip": "Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoGameOver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:50:45.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BreadcrumbEditor.cs",
+              "DocumentMoniker": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\BreadcrumbAi\\Ai\\Editor\\BreadcrumbEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\BreadcrumbAi\\Ai\\Editor\\BreadcrumbEditor.cs",
+              "ToolTip": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\BreadcrumbAi\\Ai\\Editor\\BreadcrumbEditor.cs",
+              "RelativeToolTip": "Assets\\BreadcrumbAi\\Ai\\Editor\\BreadcrumbEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:47:36.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Breadcrumbs.cs",
+              "DocumentMoniker": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\BreadcrumbAi\\Ai\\Scripts\\Breadcrumbs.cs",
+              "RelativeDocumentMoniker": "Assets\\BreadcrumbAi\\Ai\\Scripts\\Breadcrumbs.cs",
+              "ToolTip": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\BreadcrumbAi\\Ai\\Scripts\\Breadcrumbs.cs",
+              "RelativeToolTip": "Assets\\BreadcrumbAi\\Ai\\Scripts\\Breadcrumbs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:41:08.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ai.cs",
+              "DocumentMoniker": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\BreadcrumbAi\\Ai\\Scripts\\Ai.cs",
+              "RelativeDocumentMoniker": "Assets\\BreadcrumbAi\\Ai\\Scripts\\Ai.cs",
+              "ToolTip": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\BreadcrumbAi\\Ai\\Scripts\\Ai.cs",
+              "RelativeToolTip": "Assets\\BreadcrumbAi\\Ai\\Scripts\\Ai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:55:53.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoadingScreenManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\Loading screen package\\Scripts\\Loading screen types\\LoadingScreenManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Loading screen package\\Scripts\\Loading screen types\\LoadingScreenManager.cs",
+              "ToolTip": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.1\\Code\\Unity\\Moewcore\\Assets\\Loading screen package\\Scripts\\Loading screen types\\LoadingScreenManager.cs",
+              "RelativeToolTip": "Assets\\Loading screen package\\Scripts\\Loading screen types\\LoadingScreenManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:39:43.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
